@@ -7,7 +7,7 @@ CIAC es un canal de información que se centra en la recopilación y distribuci�
 ## ¿Qué encontrarás en este repositorio?
 Este repositorio contiene una colección de Indicadores de Compromiso (IoC) públicos que han sido recopilados y verificados para su uso en procesos de seguridad proactivos. Estos IoC pueden incluir:
 
-- Direcciones IP maliciosas
+- **Direcciones IP maliciosas**
 - URLs y dominios asociados con ataques cibernéticos
 - Hashes de archivos maliciosos
 - Firmas y reglas para sistemas de detección de intrusos (IDS/IPS)

@@ -1,0 +1,34 @@
+CIAC 
+Canal de inteligencia de amenazas compartidas
+
+Hashes:
+SHA256 = 78c95dae03d9d3d8a898cc4de40ecf9f55f2af08347343b011b2af391c57d1cc 
+SHA256 = 2caec1ce51c8304261e5ac88333d805a13c5fa2b0ca1c0c19a7e5a9a2af78b43
+SHA256 = 75a3b244b2b04f3c91ef5ab41cd870e173ef65eeb12236b31c39a87b62d4d0b8
+SHA256 = 85bd3d8d2f06d586119584c8eef9071fcb0e42452082fb22b9960f220cc3b5a6
+SHA256 = d55fb8e7c9a17d0ce05c431075a332d234d90c3a1ccb79b21004d1477288f16f
+SHA256 = a84bfb4e378224cce70975bcfc0e3dd82ee09fc107d8e1f697ec99bf4e778858
+SHA256 = ec03a903cb74030622ac957e6aaefbb7437b032a4e6db82c33126016ac6c7d06
+SHA256 = dd72c5a305a1104568ce6b31a016f6099950be6e751f7569bf766add8c3767d6
+SHA256 = f00960758e817161a35d897afdaffe12ece240e16b5315d0d9aaf7c63e7fd619
+SHA256 = b6a9cb3a4c33c5e04c8dc3519835ea0d9598c3a2dd0da293d597c66bad3b3bcf
+SHA256 = b6a9cb3a4c33c5e04c8dc3519835ea0d9598c3a2dd0da293d597c66bad3b3bcf
+
+Dominio:
+https[:]//ipinfo.io/
+https[:]//www.maxmind.com/en/locate-my-ip-address
+db-ip[.]com
+
+IP:
+193[.]233.132.62
+204[.]79.197.200
+96[.]17.178.174
+131[.]107.255.255
+194[.]49.94.53
+
+Referencia:
+https://github.com/ThreatMon/ThreatMon-Reports-IOC/blob/main/RisePro%20Stealer%20IOC/RisePro_IOC.txt
+https://whatsapp.com/channel/0029Va6OjVKA89Mj7w8xde06
+
+Contacto:
+ciber.ciac@gmail.com

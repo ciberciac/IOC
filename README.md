@@ -28,7 +28,9 @@ Clona el repositorio: git clone (https://github.com/ciberciac/IOC)
   
 Contribuye: 
 Si tienes nuevos IoC o deseas mejorar la información existente, no dudes en escribirnos a **ciber.ciac@gmail.com**
+
 Los IoC compartidos en este repositorio provienen de fuentes publicas, confiables y verificadas.
+
 Invitamos a todos los profesionales de ciberseguridad, investigadores y organizaciones a utilizar, contribuir y compartir sus propios indicadores de compromiso a través de este repositorio. Juntos podemos mejorar la seguridad cibernética y proteger a nuestras comunidades frente a las amenazas en constante evolución.
 </p>
 

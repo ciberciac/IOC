@@ -27,7 +27,7 @@ Este repositorio es para uso informativo y educativo. Los datos aquí presentado
 
 ## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos a través de correo electrónico.
-**ciber.ciac@gmail.com**
-**https://whatsapp.com/channel/0029Va6OjVKA89Mj7w8xde06**
+- **ciber.ciac@gmail.com**
+- **https://whatsapp.com/channel/0029Va6OjVKA89Mj7w8xde06**
 
 

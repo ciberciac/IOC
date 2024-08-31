@@ -39,7 +39,7 @@ Este repositorio es para uso informativo y educativo. Los datos aquí presentado
 <p align="justify">
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos a través de correo electrónico.
 - **ciber.ciac@gmail.com**
-</p>
 - **https://whatsapp.com/channel/0029Va6OjVKA89Mj7w8xde06**
+</p>
 
 

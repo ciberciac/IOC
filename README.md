@@ -19,16 +19,17 @@ Este repositorio contiene una colección de Indicadores de Compromiso (IoC) púb
 - Informes de amenazas y análisis técnicos
 - Sample
 - Contribuye a la comunidad
-Invitamos a todos los profesionales de ciberseguridad, investigadores y organizaciones a utilizar, contribuir y compartir sus propios indicadores de compromiso a través de este repositorio. Juntos podemos mejorar la seguridad cibernética y proteger a nuestras comunidades frente a las amenazas en constante evolución.
+
 </p>
 
 ## Cómo usar este repositorio
 <p align="justify">
 Clona el repositorio: git clone (https://github.com/ciberciac/IOC)
   
-Contribuye: Si tienes nuevos IoC o deseas mejorar la información existente, no dudes en escribirnos a **ciber.ciac@gmail.com**
-Fuentes de Información
+Contribuye: 
+Si tienes nuevos IoC o deseas mejorar la información existente, no dudes en escribirnos a **ciber.ciac@gmail.com**
 Los IoC compartidos en este repositorio provienen de fuentes publicas, confiables y verificadas.
+Invitamos a todos los profesionales de ciberseguridad, investigadores y organizaciones a utilizar, contribuir y compartir sus propios indicadores de compromiso a través de este repositorio. Juntos podemos mejorar la seguridad cibernética y proteger a nuestras comunidades frente a las amenazas en constante evolución.
 </p>
 
 ## Aviso Legal

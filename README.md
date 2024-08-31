@@ -12,11 +12,12 @@ Este repositorio contiene una colección de Indicadores de Compromiso (IoC) púb
 - Hashes de archivos maliciosos
 - Firmas y reglas para sistemas de detección de intrusos (IDS/IPS)
 - Informes de amenazas y análisis técnicos
+- Sample
 - Contribuye a la comunidad
 Invitamos a todos los profesionales de ciberseguridad, investigadores y organizaciones a utilizar, contribuir y compartir sus propios indicadores de compromiso a través de este repositorio. Juntos podemos mejorar la seguridad cibernética y proteger a nuestras comunidades frente a las amenazas en constante evolución.
 
 ## Cómo usar este repositorio
-Clona el repositorio: git clone (https://github.com/ciberciac/IOC)
+Clona el repositorio: git clone **(https://github.com/ciberciac/IOC)**
 Contribuye: Si tienes nuevos IoC o deseas mejorar la información existente, no dudes en escribirnos a **ciber.ciac@gmail.com**
 Fuentes de Información
 Los IoC compartidos en este repositorio provienen de fuentes publicas, confiables y verificadas.

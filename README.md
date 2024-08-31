@@ -1,5 +1,7 @@
 ## CIAC - Canal de Inteligencia de Amenazas Compartidas
+<p align="justify">
 Bienvenidos a **CIAC (Canal de Inteligencia de Amenazas Compartidas)**, un recurso dedicado a la difusión de información sobre ciberseguridad y la compartición de indicadores de compromiso (IoC) provenientes de fuentes confiables y verificadas. Nuestro objetivo es contribuir activamente a la comunidad de seguridad informática, proporcionando datos valiosos que permitan mejorar la detección y respuesta a amenazas cibernéticas.
+</p>
 
 ## ¿Qué es CIAC?
 CIAC es un canal de información que se centra en la recopilación y distribución de inteligencia sobre ataques de ciberseguridad. Nos dedicamos a compartir información sobre amenazas emergentes, vulnerabilidades explotadas y cualquier actividad maliciosa que pueda afectar a organizaciones y usuarios a nivel global.
